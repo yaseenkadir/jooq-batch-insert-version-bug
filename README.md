@@ -1,6 +1,6 @@
 # Jooq Batch Insert Bug
 Batch inserting records with a version inserts the version but does not update the record in place.
-See (FoobarTest.java)[src/test/java/com/github/yaseenkadir/jbivb/tables/records/FoobarTest.java]
+See [FoobarTest.java](src/test/java/com/github/yaseenkadir/jbivb/tables/records/FoobarTest.java)
 
 ## Setup
 ```bash
